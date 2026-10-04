@@ -1,0 +1,6 @@
+{
+  "name": "RIC-Friends",
+  "description": "Riphah International College Thokar Campus Social, Community & AI Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
